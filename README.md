@@ -1,6 +1,6 @@
 # GRAPHQL-API
 
-Apolo-API is a GraphQL API built with Apollo Server, designed to provide a simple starting point for developers looking to learn and work with GraphQL. This project serves as an introduction to GraphQL concepts and is a part of my **Professional Aptitude Project (PAP)**. The goal is to showcase how to build a real-world API using GraphQL, Apollo Server, and best practices for structuring your API.
+GraphQL-API is a GraphQL API built with Apollo Server, designed to provide a simple starting point for developers looking to learn and work with GraphQL. This project serves as an introduction to GraphQL concepts and is a part of my **Professional Aptitude Project (PAP)**. The goal is to showcase how to build a real-world API using GraphQL, Apollo Server, and best practices for structuring your API.
 
 ## Features
 
